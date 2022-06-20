@@ -1,5 +1,5 @@
 scoreboard:
-  title: '%core_fading_FrozzMC_55FFFF_FFFFFF% &8(&7%server_online%&8)'
+  title: '%core_fading_UltraCube_55FFFF_FFFFFF% &8(&7%server_online%&8)'
   lines: |-
       &a
       &e ● &f%player_name%
@@ -7,9 +7,9 @@ scoreboard:
       &f Rank: %luckperms_primary_group_name%
       &f Ping: &e%player_ping%
       &a
-      &f Lobby: &a#%cloudnet_service_id%
+      &f Lobby: &a#2
       &a
-      &eplay.frozzmc.us
+      &eplay.ultracube.net
       
 npcs:
   skywars:
@@ -34,15 +34,15 @@ npcs:
 tab:
   header: |-
     &7
-    &b&lFrozz&f&lMC Network&7
-    play.frozzmc.us
+    &b&lUltraCube &fNetwork&7
+    play.UltraCube.net
     &7
-    &7Welcome to &b&lFrozz&7!
+    &7Welcome to &b&lUltraCube&7!
     &7
   footer: |-
     
-    &9&lDiscord:&f dc.frozzmc.us
-    &a&lShop:&f store.frozzmc.us
-    &b&lTwitter:&f @frozzmcus
+    &9&lDiscord:&f dc.UltraCube.net
+    &a&lShop:&f store.UltraCube.net
+    &b&lTwitter:&f @UltraCube
     
     &7Play with &f%bungee_total% &7more players in our gamemodes.
