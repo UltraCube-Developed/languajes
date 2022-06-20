@@ -7,7 +7,7 @@ scoreboard:
       &f Rango: %luckperms_primary_group_name%
       &f Ping: &e%player_ping%
       &a
-      &f Lobby: &a#%server_name%
+      &f Lobby: &a#2
       &a
       &eplay.ultracube.net
       
