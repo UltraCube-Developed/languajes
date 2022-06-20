@@ -7,7 +7,7 @@ scoreboard:
       &f Rank: %luckperms_primary_group_name%
       &f Ping: &e%player_ping%
       &a
-      &f Lobby: &a#%cloudnet_service_id%
+      &f Lobby: &a#%server_name%
       &a
       &eplay.ultracube.net
       
